@@ -1,4 +1,6 @@
 
+This is a copy of : https://github.com/StasDoskalenko/react-native-google-fit
+
 # react-native-google-fit
 [![npm version](https://badge.fury.io/js/react-native-google-fit.svg)](https://badge.fury.io/js/react-native-google-fit) ![Downloads](https://img.shields.io/npm/dm/react-native-google-fit.svg)
 
